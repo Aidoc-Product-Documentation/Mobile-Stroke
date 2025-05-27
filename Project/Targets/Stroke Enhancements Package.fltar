@@ -21,5 +21,9 @@
       Link="/Project/Destinations/Destination.fldes"
       Publish="true"
       IsResource="false" />
+    <Destination
+      Link="/Project/Destinations/GitHub.fldes"
+      Publish="true"
+      IsResource="false" />
   </Destinations>
 </CatapultTarget>
