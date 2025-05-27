@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Stroke Enhancements Packake">
+    <TocEntry
+      Title="New Stroke-Focused Features"
+      Link="/Content/Stroke Enhancements Package 20205-05/UG/UG - Stroke Enhancements Package.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="Creating Patient Cards"
+      Link="/Content/Stroke Enhancements Package 20205-05/UG/UG - Patient Cards in Mobile Stroke Feed.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stroke Cases Filter"
+      Link="/Content/Stroke Enhancements Package 20205-05/UG/UG - Stroke Cases Filter.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="Enhanced Imaging Library"
+      Link="/Content/Stroke Enhancements Package 20205-05/UG/UG - Enhanced Imaging Library.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="New Mobile Stroke Notifications"
+      Link="/Content/Stroke Enhancements Package 20205-05/UG/UG - New Mobile Stroke Notifications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>
