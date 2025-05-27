@@ -1,0 +1,13 @@
+/*<meta />*/
+
+/* MadCap-Branding applanguage:Templates/Projects/Empty.flprj/ */
+
+:root
+{
+	--Primary: #060C40;
+	--Dark: #007fff;
+	--FontFamily: Rubik, Arial;
+	--Lightest: #f5f5f5;
+	--LogoImage: url('Logo.png');
+}
+

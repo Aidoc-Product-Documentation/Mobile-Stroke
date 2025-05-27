@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Stroke Enhancements Package 20205-05/SG/UG - Enhanced Imaging Library.htm'],s:['+'],p:[['+',2]]});
