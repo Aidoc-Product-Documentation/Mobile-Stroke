@@ -5,12 +5,12 @@
   Host="ftp.myftpserver.com"
   User="MyAccountId"
   Password=""
-  Directory="G:\My Drive\Aidoc Product Documentation\Output"
+  Directory="G:\My Drive\Aidoc Product Documentation\Project"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
   ProviderType="Git"
-  Database="file:///G:/My Drive/Aidoc Product Documentation/Output/.git/"
-  DatabaseRoot="file:///G:/My Drive/Aidoc Product Documentation/Output"
+  Database="file:///G:/My Drive/Aidoc Product Documentation/.git/"
+  DatabaseRoot="file:///G:/My Drive/Aidoc Product Documentation/Project"
   PushToRemote="true"
-  RemoteRepository="origin"></CatapultDestination>
+  RemoteRepository="Github"></CatapultDestination>
